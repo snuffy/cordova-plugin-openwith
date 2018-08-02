@@ -65,10 +65,10 @@ SOFTWARE.
             <array>
                 <dict>
                     <key>CFBundleURLName</key>
-                    <string>cc.fovea.openwith.marcleopenwith.shareextension</string>
+                    <string>cc.fovea.openwith.$IOS_URL_SCHEME.shareextension</string>
                     <key>CFBundleURLSchemes</key>
                     <array>
-                        <string>marcleopenwith</string>
+                        <string>$IOS_URL_SCHEME</string>
                     </array>
                 </dict>
             </array>
