@@ -64,11 +64,11 @@ SOFTWARE.
         <config-file target="*-Info.plist" parent="CFBundleURLTypes">
             <array>
                 <dict>
-                    <string>CFBundleURLName</string>
-                    <string>cc.fovea.openwith.$IOS_URL_SCHEME.shareextension</string>
-                    <string>CFBundleURLSchemes</string>
+                    <key>CFBundleURLName</key>
+                    <string>cc.fovea.openwith.marcleopenwith.shareextension</string>
+                    <key>CFBundleURLSchemes</key>
                     <array>
-                        <string>$IOS_URL_SCHEME</string>
+                        <string>marcleopenwith</string>
                     </array>
                 </dict>
             </array>
